@@ -1,4 +1,4 @@
-# ImageMagick archive files
+# ImageMagick archives
 
 This repository just stores some versions of ImageMagick tar.gz
 
